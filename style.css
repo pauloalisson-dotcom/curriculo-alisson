@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(98, 0, 255);
+}
+hr{
+    height: 5px;
+    background-color: black;
+    border: none;
+}
+p{
+    width: 800px;
+    text-align: justify;
+
+}
